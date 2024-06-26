@@ -1,5 +1,5 @@
-# Project Title
-Deep Learning with the Customer's Credit Scoring Dataset
+# Deep Learning with the Customer's Credit Scoring Dataset
+
 
 ## Description
 
